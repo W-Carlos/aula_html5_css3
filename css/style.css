@@ -2,6 +2,7 @@ body {
     background: rgb(219, 200, 192);
     margin-left: 100px;
     margin-right: 200px;
+    font-family:'Montserrat', sans-serif;
 }
 
 header{
@@ -14,7 +15,7 @@ h1{
 }
 
 h2{
-    font-family: fantasy;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 p{
